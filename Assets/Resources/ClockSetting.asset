@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67ae1e9a29fb940489f655f4831c01a9, type: 3}
+  m_Name: ClockSetting
+  m_EditorClassIdentifier: 
+  Images:
+  - {fileID: 2800000, guid: 77b9e16c1f3934f818cb7546ad341d1d, type: 3}
+  - {fileID: 2800000, guid: eeb3c7d34fe6247ae80ad7dc2a488c5b, type: 3}
+  - {fileID: 2800000, guid: 0109ebffe7aaa4a26baaab71a9711150, type: 3}
+  - {fileID: 2800000, guid: 622daf1f25f6a484e8155726f6a78b1f, type: 3}
+  - {fileID: 2800000, guid: 7ea409146361441b78ea38bede32f0d3, type: 3}
+  - {fileID: 2800000, guid: c4786e7faa14c4950a50bb99dbe94278, type: 3}
+  - {fileID: 2800000, guid: a9f73fc95373e4fc899ca3774b2c610f, type: 3}
+  - {fileID: 2800000, guid: 64b231afc3d474a199673611765b2a95, type: 3}
+  - {fileID: 2800000, guid: a78ab4e95beb54035aee498ffb9ae716, type: 3}
+  - {fileID: 2800000, guid: 776370e09ee6e447eb45f035634e3ce3, type: 3}
+  colon: {fileID: 2800000, guid: 82bcf22b9d45a4ce9b1e48f11589ed4e, type: 3}
